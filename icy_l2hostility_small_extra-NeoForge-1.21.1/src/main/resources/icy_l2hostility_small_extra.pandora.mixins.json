@@ -1,0 +1,11 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.icyl2extra.mixin.pandora",
+  "plugin": "com.icyl2extra.mixin.pandora.PandoraMixinPlugin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AttributeItemMixin"
+  ],
+  "client": []
+}

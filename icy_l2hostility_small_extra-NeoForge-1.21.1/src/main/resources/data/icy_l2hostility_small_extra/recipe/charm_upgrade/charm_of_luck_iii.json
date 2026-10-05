@@ -1,0 +1,11 @@
+{
+  "type": "icy_l2hostility_small_extra:charm_upgrade",
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "curseofpandora" }
+  ],
+  "level": 1,
+  "charm": { "item": "curseofpandora:charm_of_luck" },
+  "materials": [
+    { "ingredient": { "item": "l2complements:heirophant_green" }, "count": 8 }
+  ]
+}

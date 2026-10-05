@@ -1,0 +1,12 @@
+{
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "curseofpandora" }
+  ],
+  "type": "icy_l2hostility_small_extra:fusion_charm",
+  "charm": { "tag": "icy_l2hostility_small_extra:fusion_charms" },
+  "charm_count": 4,
+  "materials": [
+    { "ingredient": { "item": "curseofpandora:reality" }, "count": 4 },
+    { "ingredient": { "item": "l2hostility:master" }, "count": 1 }
+  ]
+}

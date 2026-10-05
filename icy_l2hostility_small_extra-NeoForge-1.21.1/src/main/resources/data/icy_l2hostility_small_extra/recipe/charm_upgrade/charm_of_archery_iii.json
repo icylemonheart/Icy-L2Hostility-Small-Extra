@@ -1,0 +1,12 @@
+{
+  "type": "icy_l2hostility_small_extra:charm_upgrade",
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "curseofpandora" }
+  ],
+  "level": 1,
+  "charm": { "item": "curseofpandora:charm_of_archery" },
+  "materials": [
+    { "ingredient": { "item": "l2hostility:arena" }, "count": 4 },
+    { "ingredient": { "item": "l2hostility:ragnarok" }, "count": 4 }
+  ]
+}

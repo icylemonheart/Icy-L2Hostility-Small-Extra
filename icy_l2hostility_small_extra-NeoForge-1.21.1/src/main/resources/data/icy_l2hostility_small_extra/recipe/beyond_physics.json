@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DID",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "item": "l2hostility:dementor"
+    },
+    "I": {
+      "item": "l2hostility:imagine_breaker"
+    }
+  },
+  "result": {
+    "id": "icy_l2hostility_small_extra:beyond_physics",
+    "count": 1
+  }
+}

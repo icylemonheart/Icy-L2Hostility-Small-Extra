@@ -1,0 +1,14 @@
+{
+  "type": "icy_l2hostility_small_extra:charm_upgrade",
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "curseofpandora" }
+  ],
+  "level": 0,
+  "charm": { "item": "curseofpandora:charm_of_armor" },
+  "materials": [
+    { "ingredient": { "item": "l2hostility:tank" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:protection" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:undying" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:repelling" }, "count": 2 }
+  ]
+}

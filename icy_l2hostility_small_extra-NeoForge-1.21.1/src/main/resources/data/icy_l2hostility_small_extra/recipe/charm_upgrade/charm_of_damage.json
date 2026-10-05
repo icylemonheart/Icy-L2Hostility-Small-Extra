@@ -1,0 +1,14 @@
+{
+  "type": "icy_l2hostility_small_extra:charm_upgrade",
+  "neoforge:conditions": [
+    { "type": "neoforge:mod_loaded", "modid": "curseofpandora" }
+  ],
+  "level": 0,
+  "charm": { "item": "curseofpandora:charm_of_damage" },
+  "materials": [
+    { "ingredient": { "item": "l2hostility:fiery" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:counter_strike" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:pulling" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:dispell" }, "count": 2 }
+  ]
+}
