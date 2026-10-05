@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CIC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "l2hostility:cursed"
+    },
+    "I": {
+      "item": "l2hostility:ring_of_corrosion"
+    }
+  },
+  "result": {
+    "item": "icy_l2hostility_small_extra:no_more_immortal",
+    "count": 1
+  }
+}

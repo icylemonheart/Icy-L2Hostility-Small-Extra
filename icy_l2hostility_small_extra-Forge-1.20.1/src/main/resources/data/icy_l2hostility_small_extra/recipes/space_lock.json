@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TIT",
+    "TTT"
+  ],
+  "key": {
+    "T": {
+      "item": "l2hostility:teleport"
+    },
+    "I": {
+      "item": "l2hostility:ring_of_incarceration"
+    }
+  },
+  "result": {
+    "item": "icy_l2hostility_small_extra:space_lock",
+    "count": 1
+  }
+}

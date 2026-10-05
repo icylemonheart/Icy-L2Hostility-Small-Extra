@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PIP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "l2hostility:dispell"
+    },
+    "I": {
+      "item": "l2hostility:imagine_breaker"
+    }
+  },
+  "result": {
+    "item": "icy_l2hostility_small_extra:sealed_magic"
+  }
+}

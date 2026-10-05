@@ -1,0 +1,14 @@
+{
+  "type": "icy_l2hostility_small_extra:charm_upgrade",
+  "conditions": [
+    { "type": "forge:mod_loaded", "modid": "curseofpandora" }
+  ],
+  "level": 0,
+  "charm": { "item": "curseofpandora:charm_of_heavy_weapon" },
+  "materials": [
+    { "ingredient": { "item": "l2hostility:gravity" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:slowness" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:reprint" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:teleport" }, "count": 2 }
+  ]
+}

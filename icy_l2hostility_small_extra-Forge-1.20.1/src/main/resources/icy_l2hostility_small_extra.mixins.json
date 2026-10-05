@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.icyl2extra.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "icy_l2hostility_small_extra.refmap.json",
+  "mixins": [
+    "DamageReductionCapMixin",
+    "DamageSourceBypassTagsMixin",
+    "EnderTraitMixin",
+    "UndyingTraitMixin",
+    "TraitLootModifierMixin",
+    "EnchantmentCanEnchantMixin"
+  ],
+  "client": []
+}

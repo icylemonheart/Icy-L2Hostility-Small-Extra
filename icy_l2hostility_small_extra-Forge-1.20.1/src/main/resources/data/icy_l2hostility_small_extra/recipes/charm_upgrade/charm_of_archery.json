@@ -1,0 +1,14 @@
+{
+  "type": "icy_l2hostility_small_extra:charm_upgrade",
+  "conditions": [
+    { "type": "forge:mod_loaded", "modid": "curseofpandora" }
+  ],
+  "level": 0,
+  "charm": { "item": "curseofpandora:charm_of_archery" },
+  "materials": [
+    { "ingredient": { "item": "l2hostility:weakness" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:shulker" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:pulling" }, "count": 2 },
+    { "ingredient": { "item": "l2hostility:dispell" }, "count": 2 }
+  ]
+}
